@@ -26,10 +26,12 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         <username>
-    github:          <username>
-    download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
-    # email:           mailto:<mail@domain.tld>
+
+    github:          https://github.com/lindatvy
+    linkedin:        https://www.linkedin.com/in/lindavy/
+    twitter:         https://twitter.com/lindavyy
+    # download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
+    email:           mailto:lindavy96@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -58,7 +60,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
